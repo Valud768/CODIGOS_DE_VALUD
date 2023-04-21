@@ -91,3 +91,10 @@ boton1=Button(ventana,text="REGISTRO",bg='#a6d4f2',command=nuevaVentana).pack()
 
 
 ventana.mainloop()
+
+
+#En esta sección donde hice mis prácticas, hice un solo programa en el cual me base en la mayoría de las 
+#practicas guiadas que vimos en clase, use conocimientos como los de menú, login y registro, los cuales estan 
+#anidados a una base de datos en la cual guardo todos los usuarios que se procedan a registrar en el 
+#programa, igual use conocimientos de la unidad 1 como vienen siendo los atributos y encapsulamiento, ya 
+#que las clases y herencias no fueron necesarias para elaborar este proyecto.
